@@ -1,8 +1,10 @@
 ### Hello 👋
 
-I'm Gustavo Alves, a Software Engineer from João Pessoa, Brazil. I really love to work with data intensive back end applications.
+I'm Gustavo Alves, a Software Engineer from João Pessoa - Brazil.
 
-I'm currently working with:
+I really love to work with high availability back end applications that handle huge amounts of data.
+
+- I'm currently working with:
 
 <a href='https://dotnet.microsoft.com/' target="_blank">
     <img height="36" width="36" src="/images/dotNET.png" alt=".NET"/>
@@ -15,6 +17,10 @@ I'm currently working with:
 <a href='https://aws.amazon.com/' target="_blank">
     <img height="36" width="36" src="/images/aws.png" alt="AWS"/>
 </a>
+
+- My Github Status
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMA)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
