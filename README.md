@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋
+
+I'm Gustavo Alves, a Software Engineer from João Pessoa, Brazil. I really love to work with data intensive back end applications.
+
+I'm currently working with:
+
+![Elasticsearch](https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-png-transparent.png)
 
 <!--
 **GustavoMA/GustavoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
