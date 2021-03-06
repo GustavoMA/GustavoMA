@@ -9,7 +9,7 @@ I'm currently working with:
 </a>
 
 <a href='https://www.elastic.co/elasticsearch/' target="_blank">
-    <img height="36" width="36" src="/images/elasticsearch.svg" alt="Elasticsearch"/>
+    <img height="36" width="36" src="/images/elasticsearch.png" alt="Elasticsearch"/>
 </a>
 
 <a href='https://aws.amazon.com/' target="_blank">
