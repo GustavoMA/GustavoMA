@@ -4,9 +4,18 @@ I'm Gustavo Alves, a Software Engineer from João Pessoa, Brazil. I really love 
 
 I'm currently working with:
 
-<a href='https://www.elastic.co/elasticsearch/' target="_blank">
-    <img height="36" width="36" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-elasticsearch-logo-png-transparent.png" alt="Elasticsearch"/>
+<a href='https://dotnet.microsoft.com/' target="_blank">
+    <img height="36" width="36" src="/images/dotNET.png" alt=".NET"/>
 </a>
+
+<a href='https://www.elastic.co/elasticsearch/' target="_blank">
+    <img height="36" width="36" src="/images/elasticsearch.svg" alt="Elasticsearch"/>
+</a>
+
+<a href='https://aws.amazon.com/' target="_blank">
+    <img height="36" width="36" src="/images/aws.png" alt="AWS"/>
+</a>
+
 
 <!--
 **GustavoMA/GustavoMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
