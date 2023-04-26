@@ -17,8 +17,3 @@ I really love to work with high availability back end applications that handle h
 <a href='https://aws.amazon.com/' target="_blank">
     <img height="36" width="36" src="/images/aws.png" alt="AWS"/>
 </a>
-
-
-#### Github Status
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoMA&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
